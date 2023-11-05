@@ -1,0 +1,28 @@
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.exe.config
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.exe
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.pdb
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.xml
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Form1.resources
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Resources.resources
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Tebak_Warna.resources
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.vbproj.GenerateResource.Cache
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.exe
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.xml
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.pdb
+D:\Belajar Pemograman\Visual Studio 2012\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Menu_utama.resources
+D:\Belajar Pemograman\Visual Studio 2012\Aplikasi Game\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.exe.config
+D:\Belajar Pemograman\Visual Studio 2012\Aplikasi Game\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.exe
+D:\Belajar Pemograman\Visual Studio 2012\Aplikasi Game\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.xml
+D:\Belajar Pemograman\Visual Studio 2012\Aplikasi Game\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.pdb
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.exe.config
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.exe
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.xml
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.pdb
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.exe
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.pdb
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\bin\Debug\Game Tebak Warna.xml
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Form1.resources
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Menu_utama.resources
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Resources.resources
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game_Tebak_Warna.Tebak_Warna.resources
+D:\UNIKA (TEKNIK INFORMATIKA)\Semester 3 (Tahun 2022-2023)\Materi Pembelajaran Kuliah\Interaksi Manusia dan Komputer\Tugas\Modul 1\Game Tebak Warna\Game Tebak Warna\obj\Debug\Game Tebak Warna.vbproj.GenerateResource.Cache
